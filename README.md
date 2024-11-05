@@ -4,7 +4,7 @@
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/CaioDevEnginner)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-fernandes-73a88427a/)
 
-## Tecnologias Em Estudos
+## Commits
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Caio-Devv&show_icons=true&theme=radical)
 
  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arthurspk&hide=Html&theme=nord_dark)  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Caio-Devv&theme=nord_dark)
